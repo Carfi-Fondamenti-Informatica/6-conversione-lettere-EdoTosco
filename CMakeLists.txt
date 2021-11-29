@@ -3,4 +3,4 @@ project(Esercitazione_7)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Esercitazione_7 main.cpp cmake-build-debug/Numeri_Primi.cpp cmake-build-debug/Numeri_Primi.h)
+add_executable(Esercitazione_6 main.cpp CharaCheck.cpp CharaCheck.h)
