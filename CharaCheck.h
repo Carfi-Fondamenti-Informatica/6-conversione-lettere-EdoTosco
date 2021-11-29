@@ -1,6 +1,0 @@
-#ifndef ESERCITAZIONE_6_CHARACHECK_H
-#define ESERCITAZIONE_6_CHARACHECK_H
-
-char characheck(char input);
-
-#endif //ESERCITAZIONE_6_CHARACHECK_H
