@@ -1,5 +1,5 @@
 #include <iostream>
-#include "CharaCheck.h"
+#include "lib.h"
 using namespace std;
 
 int main() {
