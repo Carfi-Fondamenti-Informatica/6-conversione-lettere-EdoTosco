@@ -1,4 +1,4 @@
-#include "CharaCheck.h"
+#include "lib.h"
 
 char characheck(char input){
 
